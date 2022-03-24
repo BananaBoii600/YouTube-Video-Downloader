@@ -7,4 +7,6 @@ This code requires python to be installed in your computer, python can be instal
 
 This app requires some third party utilities to be downloaded in your computer, to install them, type "pip install pytube" and "pip install tkinter" in the command prompt/terminal
 
+The code does not work when converted to exe using pyinstaller, thus it is recommended to launch it using python launcher which comes with the standard python installation
+
 Thank you for downloading :)
