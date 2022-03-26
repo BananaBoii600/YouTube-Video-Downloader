@@ -8,11 +8,11 @@ This code requires python to be installed in your computer, python can be instal
 # Setup
 This app requires some third party utilities to be downloaded in your computer, to install them, type 
 
--`pip install pytube`
+`pip install pytube`
 
 and
 
--`pip install tk` 
+`pip install tk` 
 
 in the command prompt/terminal
 
