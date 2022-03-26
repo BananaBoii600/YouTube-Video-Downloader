@@ -16,6 +16,4 @@ and
 
 in the command prompt/terminal
 
-
-
-Thank you for downloading :)
+# Thanks for downloading :)
