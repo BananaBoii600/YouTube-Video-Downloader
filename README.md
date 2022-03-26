@@ -16,4 +16,6 @@ and
 
 in the command prompt/terminal
 
+This app does not run when converted to exe using pyinstaller. thus it is recommended to run it using visual studio code or other code editors
+
 # Thanks for downloading :)
