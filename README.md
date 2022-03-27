@@ -6,11 +6,13 @@ This code requires python to be installed in your computer, python can be instal
 # Setup
 This app requires some third party utilities to be downloaded in your computer, to install them, type 
 
-`pip install pytube`
-
+```sh
+pip install pytube
+```
 and
-
-`pip install tk` 
+```sh
+pip install tk
+``` 
 
 in the command prompt/terminal
 
