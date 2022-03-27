@@ -1,8 +1,6 @@
 # YouTube-Video-Downloader
 A YouTube video downloader made in python using tkinter, moviepy, and pytube
 
-The Code can ONLY be used for personal use and educational purposes
-
 This code requires python to be installed in your computer, python can be installed [here](https://www.python.org/downloads)
 
 # Setup
