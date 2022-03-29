@@ -1,4 +1,7 @@
 # YouTube-Video-Downloader
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 A YouTube video downloader made in python using tkinter, moviepy, and pytube
 
 This code requires python to be installed in your computer, python can be installed [here](https://www.python.org/downloads)
